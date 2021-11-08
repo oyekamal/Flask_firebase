@@ -1,0 +1,19 @@
+{
+
+    "apiKey": "AIzaSyDA3m6Uy-3snHKg67JKKEplt_Jch5xpWaQ",
+
+    "authDomain": "flask-firebase-auth-2942c.firebaseapp.com",
+
+    "projectId": "flask-firebase-auth-2942c",
+
+    "storageBucket": "flask-firebase-auth-2942c.appspot.com",
+
+    "messagingSenderId": "472262904617",
+
+    "appId": "1:472262904617:web:81e5b581f3c47282584538",
+
+    "measurementId": "G-1QKE7FLTQ8",
+
+    "databaseURL": "https://flask-firebase-auth-2942c-default-rtdb.firebaseio.com/"
+
+}
